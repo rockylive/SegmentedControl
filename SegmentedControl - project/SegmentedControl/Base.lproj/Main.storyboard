@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11542" systemVersion="16B2555" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="SegmentControl" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="city-8" translatesAutoresizingMaskIntoConstraints="NO" id="6x0-xd-Gd2">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jwd-Sh-X6Y" customClass="SPSegmentedControl" customModule="SegmentControl" customModuleProvider="target">
+                                <rect key="frame" x="32" y="35" width="311" height="42"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="42" id="9fu-sR-oLK"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DAQ-A1-u88" customClass="SPSegmentedControl" customModule="SegmentControl" customModuleProvider="target">
+                                <rect key="frame" x="71" y="97" width="233" height="42"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6fp-ne-miV" customClass="SPSegmentedControl" customModule="SegmentControl" customModuleProvider="target">
+                                <rect key="frame" x="117.5" y="159" width="140" height="42"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Not yet scrolling" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZfS-PJ-mtZ">
+                                <rect key="frame" x="87.5" y="611" width="200" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="200" id="Mpz-fa-b2i"/>
+                                    <constraint firstAttribute="height" constant="30" id="qf6-lE-BIg"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="AvenirNext-Medium" family="Avenir Next" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="6x0-xd-Gd2" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="2JT-d5-bQK"/>
+                            <constraint firstItem="6x0-xd-Gd2" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="2Jm-oE-dm1"/>
+                            <constraint firstItem="jwd-Sh-X6Y" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="32" id="32p-SJ-eza"/>
+                            <constraint firstItem="DAQ-A1-u88" firstAttribute="height" secondItem="jwd-Sh-X6Y" secondAttribute="height" id="3Yu-PB-70c"/>
+                            <constraint firstItem="DAQ-A1-u88" firstAttribute="top" secondItem="jwd-Sh-X6Y" secondAttribute="bottom" constant="20" id="4Xi-zS-fa8"/>
+                            <constraint firstItem="6fp-ne-miV" firstAttribute="centerX" secondItem="DAQ-A1-u88" secondAttribute="centerX" id="BxU-GT-mCj"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="6x0-xd-Gd2" secondAttribute="bottom" id="GTe-8c-ee1"/>
+                            <constraint firstItem="jwd-Sh-X6Y" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="15" id="GxL-uL-i6q"/>
+                            <constraint firstItem="DAQ-A1-u88" firstAttribute="centerX" secondItem="jwd-Sh-X6Y" secondAttribute="centerX" id="Hp8-41-tNG"/>
+                            <constraint firstAttribute="trailing" secondItem="6x0-xd-Gd2" secondAttribute="trailing" id="IbI-PH-MtJ"/>
+                            <constraint firstItem="6fp-ne-miV" firstAttribute="top" secondItem="DAQ-A1-u88" secondAttribute="bottom" constant="20" id="Kd9-aE-UU5"/>
+                            <constraint firstItem="ZfS-PJ-mtZ" firstAttribute="top" secondItem="6x0-xd-Gd2" secondAttribute="bottom" constant="-56" id="QVX-9l-lYV"/>
+                            <constraint firstItem="6fp-ne-miV" firstAttribute="height" secondItem="DAQ-A1-u88" secondAttribute="height" id="VLu-jA-LwN"/>
+                            <constraint firstAttribute="trailing" secondItem="jwd-Sh-X6Y" secondAttribute="trailing" constant="32" id="jt6-PP-EeL"/>
+                            <constraint firstItem="DAQ-A1-u88" firstAttribute="width" secondItem="jwd-Sh-X6Y" secondAttribute="width" multiplier="0.75" id="mKA-Z1-UYY"/>
+                            <constraint firstItem="6fp-ne-miV" firstAttribute="width" secondItem="DAQ-A1-u88" secondAttribute="width" multiplier="0.6" id="nPP-lR-RKm"/>
+                            <constraint firstItem="ZfS-PJ-mtZ" firstAttribute="centerX" secondItem="6x0-xd-Gd2" secondAttribute="centerX" id="tmK-Uf-WQc"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="bgImageView" destination="6x0-xd-Gd2" id="kDd-kR-fos"/>
+                        <outlet property="percentIndicatorViewLabel" destination="ZfS-PJ-mtZ" id="hYE-dN-dD2"/>
+                        <outlet property="secondSegmentedControl" destination="DAQ-A1-u88" id="vZC-pp-fFd"/>
+                        <outlet property="segmentedControl" destination="jwd-Sh-X6Y" id="mLq-NV-yN4"/>
+                        <outlet property="thirdSegmentedControl" destination="6fp-ne-miV" id="pbD-jC-D6t"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="117.59999999999999" y="123.68815592203899"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="city-8" width="1024" height="1545"/>
+    </resources>
+</document>
