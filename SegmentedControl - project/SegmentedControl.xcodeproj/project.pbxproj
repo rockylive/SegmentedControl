@@ -11,44 +11,42 @@
 		F40E94251DF40BEF00FFE1B4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94241DF40BEF00FFE1B4 /* ViewController.swift */; };
 		F40E94281DF40BEF00FFE1B4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F40E94261DF40BEF00FFE1B4 /* Main.storyboard */; };
 		F40E942A1DF40BEF00FFE1B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F40E94291DF40BEF00FFE1B4 /* Assets.xcassets */; };
-		F40E942D1DF40BEF00FFE1B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F40E942B1DF40BEF00FFE1B4 /* LaunchScreen.storyboard */; };
-		F40E94781DF40C2400FFE1B4 /* SPAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94371DF40C2300FFE1B4 /* SPAnimation.swift */; };
-		F40E94791DF40C2400FFE1B4 /* SPAnimationSpring.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94381DF40C2300FFE1B4 /* SPAnimationSpring.swift */; };
-		F40E947A1DF40C2400FFE1B4 /* SPAnimationUpward.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94391DF40C2300FFE1B4 /* SPAnimationUpward.swift */; };
-		F40E947B1DF40C2400FFE1B4 /* SPAudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E943B1DF40C2300FFE1B4 /* SPAudioPlayer.swift */; };
-		F40E947C1DF40C2400FFE1B4 /* SPUIColorExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E943D1DF40C2300FFE1B4 /* SPUIColorExtenshion.swift */; };
-		F40E947D1DF40C2400FFE1B4 /* SPConstraintsAssistent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E943F1DF40C2300FFE1B4 /* SPConstraintsAssistent.swift */; };
-		F40E947E1DF40C2400FFE1B4 /* SPDelay.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94411DF40C2300FFE1B4 /* SPDelay.swift */; };
-		F40E947F1DF40C2400FFE1B4 /* SPUIDeviceExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94431DF40C2300FFE1B4 /* SPUIDeviceExtenshion.swift */; };
-		F40E94801DF40C2400FFE1B4 /* SPBezierPathFigure.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94461DF40C2300FFE1B4 /* SPBezierPathFigure.swift */; };
-		F40E94811DF40C2400FFE1B4 /* SPUIImageExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94481DF40C2300FFE1B4 /* SPUIImageExtenshion.swift */; };
-		F40E94821DF40C2400FFE1B4 /* SPUIImageViewExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94491DF40C2300FFE1B4 /* SPUIImageViewExtenshion.swift */; };
-		F40E94831DF40C2400FFE1B4 /* SPInternetConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E944B1DF40C2300FFE1B4 /* SPInternetConnection.swift */; };
-		F40E94841DF40C2400FFE1B4 /* SPLaunchAnimationTwitterExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E944F1DF40C2400FFE1B4 /* SPLaunchAnimationTwitterExtenshion.swift */; };
-		F40E94851DF40C2400FFE1B4 /* TwitterLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F40E94501DF40C2400FFE1B4 /* TwitterLaunchScreen.storyboard */; };
-		F40E94861DF40C2400FFE1B4 /* TwitterMedia.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F40E94511DF40C2400FFE1B4 /* TwitterMedia.xcassets */; };
-		F40E94871DF40C2400FFE1B4 /* SPLaunchAnimationSlideExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94531DF40C2400FFE1B4 /* SPLaunchAnimationSlideExtenshion.swift */; };
-		F40E94881DF40C2400FFE1B4 /* SPLaunchAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94541DF40C2400FFE1B4 /* SPLaunchAnimation.swift */; };
-		F40E94891DF40C2400FFE1B4 /* SPRandom.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94561DF40C2400FFE1B4 /* SPRandom.swift */; };
-		F40E948A1DF40C2400FFE1B4 /* SPExtenshionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94591DF40C2400FFE1B4 /* SPExtenshionViewController.swift */; };
-		F40E948B1DF40C2400FFE1B4 /* SPGradientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E945A1DF40C2400FFE1B4 /* SPGradientViewController.swift */; };
-		F40E948C1DF40C2400FFE1B4 /* SPPageItemsScallingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E945B1DF40C2400FFE1B4 /* SPPageItemsScallingViewController.swift */; };
-		F40E948D1DF40C2400FFE1B4 /* SPParalaxTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E945C1DF40C2400FFE1B4 /* SPParalaxTableViewController.swift */; };
-		F40E948E1DF40C2400FFE1B4 /* SPIconsButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E945F1DF40C2400FFE1B4 /* SPIconsButton.swift */; };
-		F40E948F1DF40C2400FFE1B4 /* SPLinesCircleButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94601DF40C2400FFE1B4 /* SPLinesCircleButtonsView.swift */; };
-		F40E94901DF40C2400FFE1B4 /* SPRoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94611DF40C2400FFE1B4 /* SPRoundButton.swift */; };
-		F40E94911DF40C2400FFE1B4 /* SPSegmentControllCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94631DF40C2400FFE1B4 /* SPSegmentControllCell.swift */; };
-		F40E94921DF40C2400FFE1B4 /* SPSegmentControlProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94641DF40C2400FFE1B4 /* SPSegmentControlProtocol.swift */; };
-		F40E94931DF40C2400FFE1B4 /* SPSegmentControlStyleProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94651DF40C2400FFE1B4 /* SPSegmentControlStyleProtocol.swift */; };
-		F40E94941DF40C2400FFE1B4 /* SPSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94661DF40C2400FFE1B4 /* SPSegmentedControl.swift */; };
-		F40E94951DF40C2400FFE1B4 /* SPCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E946A1DF40C2400FFE1B4 /* SPCollectionViewCell.swift */; };
-		F40E94961DF40C2400FFE1B4 /* SPPageItemsScalingCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E946C1DF40C2400FFE1B4 /* SPPageItemsScalingCollectionView.swift */; };
-		F40E94971DF40C2400FFE1B4 /* SPPageItemsScalingCollectionLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E946E1DF40C2400FFE1B4 /* SPPageItemsScalingCollectionLayout.swift */; };
-		F40E94981DF40C2400FFE1B4 /* SPParallaxTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94711DF40C2400FFE1B4 /* SPParallaxTableViewCell.swift */; };
-		F40E94991DF40C2400FFE1B4 /* SPBlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94741DF40C2400FFE1B4 /* SPBlurView.swift */; };
-		F40E949A1DF40C2400FFE1B4 /* SPGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94751DF40C2400FFE1B4 /* SPGradientView.swift */; };
-		F40E949B1DF40C2400FFE1B4 /* SPUILabelExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94761DF40C2400FFE1B4 /* SPUILabelExtenshion.swift */; };
-		F40E949C1DF40C2400FFE1B4 /* SPUIViewExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40E94771DF40C2400FFE1B4 /* SPUIViewExtenshion.swift */; };
+		F41F92911E0ADB07004ED0F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F41F924F1E0ADB07004ED0F1 /* LaunchScreen.storyboard */; };
+		F41F92921E0ADB07004ED0F1 /* SPIconAssest.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F41F92501E0ADB07004ED0F1 /* SPIconAssest.xcassets */; };
+		F41F92931E0ADB07004ED0F1 /* SPAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92531E0ADB07004ED0F1 /* SPAnimation.swift */; };
+		F41F92941E0ADB07004ED0F1 /* SPAnimationSpring.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92541E0ADB07004ED0F1 /* SPAnimationSpring.swift */; };
+		F41F92951E0ADB07004ED0F1 /* SPAnimationUpward.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92551E0ADB07004ED0F1 /* SPAnimationUpward.swift */; };
+		F41F92961E0ADB07004ED0F1 /* SPAudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92571E0ADB07004ED0F1 /* SPAudioPlayer.swift */; };
+		F41F92971E0ADB07004ED0F1 /* SPUIColorExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92591E0ADB07004ED0F1 /* SPUIColorExtenshion.swift */; };
+		F41F92981E0ADB07004ED0F1 /* SPConstraintsAssistent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F925B1E0ADB07004ED0F1 /* SPConstraintsAssistent.swift */; };
+		F41F92991E0ADB07004ED0F1 /* SPDelay.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F925D1E0ADB07004ED0F1 /* SPDelay.swift */; };
+		F41F929A1E0ADB07004ED0F1 /* SPUIDeviceExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F925F1E0ADB07004ED0F1 /* SPUIDeviceExtenshion.swift */; };
+		F41F929B1E0ADB07004ED0F1 /* SPBezierPathFigure.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92621E0ADB07004ED0F1 /* SPBezierPathFigure.swift */; };
+		F41F929C1E0ADB07004ED0F1 /* SPUIImageExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92641E0ADB07004ED0F1 /* SPUIImageExtenshion.swift */; };
+		F41F929D1E0ADB07004ED0F1 /* SPInternetConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92661E0ADB07004ED0F1 /* SPInternetConnection.swift */; };
+		F41F929E1E0ADB07004ED0F1 /* SPLaunchAnimationTwitterExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F926A1E0ADB07004ED0F1 /* SPLaunchAnimationTwitterExtenshion.swift */; };
+		F41F929F1E0ADB07004ED0F1 /* SPLaunchAnimationSlideExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F926C1E0ADB07004ED0F1 /* SPLaunchAnimationSlideExtenshion.swift */; };
+		F41F92A01E0ADB07004ED0F1 /* SPLaunchAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F926D1E0ADB07004ED0F1 /* SPLaunchAnimation.swift */; };
+		F41F92A11E0ADB07004ED0F1 /* SPRandom.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F926F1E0ADB07004ED0F1 /* SPRandom.swift */; };
+		F41F92A21E0ADB07004ED0F1 /* SPExtenshionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92721E0ADB07004ED0F1 /* SPExtenshionViewController.swift */; };
+		F41F92A31E0ADB07004ED0F1 /* SPGradientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92731E0ADB07004ED0F1 /* SPGradientViewController.swift */; };
+		F41F92A41E0ADB07004ED0F1 /* SPPageItemsScallingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92741E0ADB07004ED0F1 /* SPPageItemsScallingViewController.swift */; };
+		F41F92A51E0ADB07004ED0F1 /* SPParalaxTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92751E0ADB07004ED0F1 /* SPParalaxTableViewController.swift */; };
+		F41F92A61E0ADB07004ED0F1 /* SPIconsButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92781E0ADB07004ED0F1 /* SPIconsButton.swift */; };
+		F41F92A71E0ADB07004ED0F1 /* SPLinesCircleButtonsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92791E0ADB07004ED0F1 /* SPLinesCircleButtonsView.swift */; };
+		F41F92A81E0ADB07004ED0F1 /* SPRoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F927A1E0ADB07004ED0F1 /* SPRoundButton.swift */; };
+		F41F92A91E0ADB07004ED0F1 /* SPSegmentControllCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F927C1E0ADB07004ED0F1 /* SPSegmentControllCell.swift */; };
+		F41F92AA1E0ADB07004ED0F1 /* SPSegmentControlProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F927D1E0ADB07004ED0F1 /* SPSegmentControlProtocol.swift */; };
+		F41F92AB1E0ADB07004ED0F1 /* SPSegmentControlStyleProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F927E1E0ADB07004ED0F1 /* SPSegmentControlStyleProtocol.swift */; };
+		F41F92AC1E0ADB07004ED0F1 /* SPSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F927F1E0ADB07004ED0F1 /* SPSegmentedControl.swift */; };
+		F41F92AD1E0ADB07004ED0F1 /* SPCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92831E0ADB07004ED0F1 /* SPCollectionViewCell.swift */; };
+		F41F92AE1E0ADB07004ED0F1 /* SPPageItemsScalingCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92851E0ADB07004ED0F1 /* SPPageItemsScalingCollectionView.swift */; };
+		F41F92AF1E0ADB07004ED0F1 /* SPPageItemsScalingCollectionLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92871E0ADB07004ED0F1 /* SPPageItemsScalingCollectionLayout.swift */; };
+		F41F92B01E0ADB07004ED0F1 /* SPParallaxTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F928A1E0ADB07004ED0F1 /* SPParallaxTableViewCell.swift */; };
+		F41F92B11E0ADB07004ED0F1 /* SPBlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F928D1E0ADB07004ED0F1 /* SPBlurView.swift */; };
+		F41F92B21E0ADB07004ED0F1 /* SPGradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F928E1E0ADB07004ED0F1 /* SPGradientView.swift */; };
+		F41F92B31E0ADB07004ED0F1 /* SPUILabelExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F928F1E0ADB07004ED0F1 /* SPUILabelExtenshion.swift */; };
+		F41F92B41E0ADB07004ED0F1 /* SPUIViewExtenshion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F41F92901E0ADB07004ED0F1 /* SPUIViewExtenshion.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,45 +55,43 @@
 		F40E94241DF40BEF00FFE1B4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F40E94271DF40BEF00FFE1B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F40E94291DF40BEF00FFE1B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F40E942C1DF40BEF00FFE1B4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F40E942E1DF40BEF00FFE1B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F40E94371DF40C2300FFE1B4 /* SPAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPAnimation.swift; sourceTree = "<group>"; };
-		F40E94381DF40C2300FFE1B4 /* SPAnimationSpring.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPAnimationSpring.swift; sourceTree = "<group>"; };
-		F40E94391DF40C2300FFE1B4 /* SPAnimationUpward.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPAnimationUpward.swift; sourceTree = "<group>"; };
-		F40E943B1DF40C2300FFE1B4 /* SPAudioPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPAudioPlayer.swift; sourceTree = "<group>"; };
-		F40E943D1DF40C2300FFE1B4 /* SPUIColorExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUIColorExtenshion.swift; sourceTree = "<group>"; };
-		F40E943F1DF40C2300FFE1B4 /* SPConstraintsAssistent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPConstraintsAssistent.swift; sourceTree = "<group>"; };
-		F40E94411DF40C2300FFE1B4 /* SPDelay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPDelay.swift; sourceTree = "<group>"; };
-		F40E94431DF40C2300FFE1B4 /* SPUIDeviceExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUIDeviceExtenshion.swift; sourceTree = "<group>"; };
-		F40E94461DF40C2300FFE1B4 /* SPBezierPathFigure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPBezierPathFigure.swift; sourceTree = "<group>"; };
-		F40E94481DF40C2300FFE1B4 /* SPUIImageExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUIImageExtenshion.swift; sourceTree = "<group>"; };
-		F40E94491DF40C2300FFE1B4 /* SPUIImageViewExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUIImageViewExtenshion.swift; sourceTree = "<group>"; };
-		F40E944B1DF40C2300FFE1B4 /* SPInternetConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPInternetConnection.swift; sourceTree = "<group>"; };
-		F40E944F1DF40C2400FFE1B4 /* SPLaunchAnimationTwitterExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPLaunchAnimationTwitterExtenshion.swift; sourceTree = "<group>"; };
-		F40E94501DF40C2400FFE1B4 /* TwitterLaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = TwitterLaunchScreen.storyboard; sourceTree = "<group>"; };
-		F40E94511DF40C2400FFE1B4 /* TwitterMedia.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = TwitterMedia.xcassets; sourceTree = "<group>"; };
-		F40E94531DF40C2400FFE1B4 /* SPLaunchAnimationSlideExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPLaunchAnimationSlideExtenshion.swift; sourceTree = "<group>"; };
-		F40E94541DF40C2400FFE1B4 /* SPLaunchAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPLaunchAnimation.swift; sourceTree = "<group>"; };
-		F40E94561DF40C2400FFE1B4 /* SPRandom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPRandom.swift; sourceTree = "<group>"; };
-		F40E94591DF40C2400FFE1B4 /* SPExtenshionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPExtenshionViewController.swift; sourceTree = "<group>"; };
-		F40E945A1DF40C2400FFE1B4 /* SPGradientViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPGradientViewController.swift; sourceTree = "<group>"; };
-		F40E945B1DF40C2400FFE1B4 /* SPPageItemsScallingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPPageItemsScallingViewController.swift; sourceTree = "<group>"; };
-		F40E945C1DF40C2400FFE1B4 /* SPParalaxTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPParalaxTableViewController.swift; sourceTree = "<group>"; };
-		F40E945F1DF40C2400FFE1B4 /* SPIconsButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPIconsButton.swift; sourceTree = "<group>"; };
-		F40E94601DF40C2400FFE1B4 /* SPLinesCircleButtonsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPLinesCircleButtonsView.swift; sourceTree = "<group>"; };
-		F40E94611DF40C2400FFE1B4 /* SPRoundButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPRoundButton.swift; sourceTree = "<group>"; };
-		F40E94631DF40C2400FFE1B4 /* SPSegmentControllCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPSegmentControllCell.swift; sourceTree = "<group>"; };
-		F40E94641DF40C2400FFE1B4 /* SPSegmentControlProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPSegmentControlProtocol.swift; sourceTree = "<group>"; };
-		F40E94651DF40C2400FFE1B4 /* SPSegmentControlStyleProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPSegmentControlStyleProtocol.swift; sourceTree = "<group>"; };
-		F40E94661DF40C2400FFE1B4 /* SPSegmentedControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPSegmentedControl.swift; sourceTree = "<group>"; };
-		F40E946A1DF40C2400FFE1B4 /* SPCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPCollectionViewCell.swift; sourceTree = "<group>"; };
-		F40E946C1DF40C2400FFE1B4 /* SPPageItemsScalingCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPPageItemsScalingCollectionView.swift; sourceTree = "<group>"; };
-		F40E946E1DF40C2400FFE1B4 /* SPPageItemsScalingCollectionLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPPageItemsScalingCollectionLayout.swift; sourceTree = "<group>"; };
-		F40E94711DF40C2400FFE1B4 /* SPParallaxTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPParallaxTableViewCell.swift; sourceTree = "<group>"; };
-		F40E94741DF40C2400FFE1B4 /* SPBlurView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPBlurView.swift; sourceTree = "<group>"; };
-		F40E94751DF40C2400FFE1B4 /* SPGradientView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPGradientView.swift; sourceTree = "<group>"; };
-		F40E94761DF40C2400FFE1B4 /* SPUILabelExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUILabelExtenshion.swift; sourceTree = "<group>"; };
-		F40E94771DF40C2400FFE1B4 /* SPUIViewExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUIViewExtenshion.swift; sourceTree = "<group>"; };
+		F41F924F1E0ADB07004ED0F1 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F41F92501E0ADB07004ED0F1 /* SPIconAssest.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = SPIconAssest.xcassets; sourceTree = "<group>"; };
+		F41F92531E0ADB07004ED0F1 /* SPAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPAnimation.swift; sourceTree = "<group>"; };
+		F41F92541E0ADB07004ED0F1 /* SPAnimationSpring.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPAnimationSpring.swift; sourceTree = "<group>"; };
+		F41F92551E0ADB07004ED0F1 /* SPAnimationUpward.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPAnimationUpward.swift; sourceTree = "<group>"; };
+		F41F92571E0ADB07004ED0F1 /* SPAudioPlayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPAudioPlayer.swift; sourceTree = "<group>"; };
+		F41F92591E0ADB07004ED0F1 /* SPUIColorExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUIColorExtenshion.swift; sourceTree = "<group>"; };
+		F41F925B1E0ADB07004ED0F1 /* SPConstraintsAssistent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPConstraintsAssistent.swift; sourceTree = "<group>"; };
+		F41F925D1E0ADB07004ED0F1 /* SPDelay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPDelay.swift; sourceTree = "<group>"; };
+		F41F925F1E0ADB07004ED0F1 /* SPUIDeviceExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUIDeviceExtenshion.swift; sourceTree = "<group>"; };
+		F41F92621E0ADB07004ED0F1 /* SPBezierPathFigure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPBezierPathFigure.swift; sourceTree = "<group>"; };
+		F41F92641E0ADB07004ED0F1 /* SPUIImageExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUIImageExtenshion.swift; sourceTree = "<group>"; };
+		F41F92661E0ADB07004ED0F1 /* SPInternetConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPInternetConnection.swift; sourceTree = "<group>"; };
+		F41F926A1E0ADB07004ED0F1 /* SPLaunchAnimationTwitterExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPLaunchAnimationTwitterExtenshion.swift; sourceTree = "<group>"; };
+		F41F926C1E0ADB07004ED0F1 /* SPLaunchAnimationSlideExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPLaunchAnimationSlideExtenshion.swift; sourceTree = "<group>"; };
+		F41F926D1E0ADB07004ED0F1 /* SPLaunchAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPLaunchAnimation.swift; sourceTree = "<group>"; };
+		F41F926F1E0ADB07004ED0F1 /* SPRandom.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPRandom.swift; sourceTree = "<group>"; };
+		F41F92721E0ADB07004ED0F1 /* SPExtenshionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPExtenshionViewController.swift; sourceTree = "<group>"; };
+		F41F92731E0ADB07004ED0F1 /* SPGradientViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPGradientViewController.swift; sourceTree = "<group>"; };
+		F41F92741E0ADB07004ED0F1 /* SPPageItemsScallingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPPageItemsScallingViewController.swift; sourceTree = "<group>"; };
+		F41F92751E0ADB07004ED0F1 /* SPParalaxTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPParalaxTableViewController.swift; sourceTree = "<group>"; };
+		F41F92781E0ADB07004ED0F1 /* SPIconsButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPIconsButton.swift; sourceTree = "<group>"; };
+		F41F92791E0ADB07004ED0F1 /* SPLinesCircleButtonsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPLinesCircleButtonsView.swift; sourceTree = "<group>"; };
+		F41F927A1E0ADB07004ED0F1 /* SPRoundButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPRoundButton.swift; sourceTree = "<group>"; };
+		F41F927C1E0ADB07004ED0F1 /* SPSegmentControllCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPSegmentControllCell.swift; sourceTree = "<group>"; };
+		F41F927D1E0ADB07004ED0F1 /* SPSegmentControlProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPSegmentControlProtocol.swift; sourceTree = "<group>"; };
+		F41F927E1E0ADB07004ED0F1 /* SPSegmentControlStyleProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPSegmentControlStyleProtocol.swift; sourceTree = "<group>"; };
+		F41F927F1E0ADB07004ED0F1 /* SPSegmentedControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPSegmentedControl.swift; sourceTree = "<group>"; };
+		F41F92831E0ADB07004ED0F1 /* SPCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPCollectionViewCell.swift; sourceTree = "<group>"; };
+		F41F92851E0ADB07004ED0F1 /* SPPageItemsScalingCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPPageItemsScalingCollectionView.swift; sourceTree = "<group>"; };
+		F41F92871E0ADB07004ED0F1 /* SPPageItemsScalingCollectionLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPPageItemsScalingCollectionLayout.swift; sourceTree = "<group>"; };
+		F41F928A1E0ADB07004ED0F1 /* SPParallaxTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPParallaxTableViewCell.swift; sourceTree = "<group>"; };
+		F41F928D1E0ADB07004ED0F1 /* SPBlurView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPBlurView.swift; sourceTree = "<group>"; };
+		F41F928E1E0ADB07004ED0F1 /* SPGradientView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPGradientView.swift; sourceTree = "<group>"; };
+		F41F928F1E0ADB07004ED0F1 /* SPUILabelExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUILabelExtenshion.swift; sourceTree = "<group>"; };
+		F41F92901E0ADB07004ED0F1 /* SPUIViewExtenshion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SPUIViewExtenshion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,297 +124,295 @@
 		F40E94211DF40BEF00FFE1B4 /* SegmentedControl */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94341DF40C2300FFE1B4 /* Frameworks */,
+				F41F924E1E0ADB07004ED0F1 /* github-assest */,
+				F41F92511E0ADB07004ED0F1 /* Sparrow */,
 				F40E94221DF40BEF00FFE1B4 /* AppDelegate.swift */,
 				F40E94241DF40BEF00FFE1B4 /* ViewController.swift */,
 				F40E94261DF40BEF00FFE1B4 /* Main.storyboard */,
 				F40E94291DF40BEF00FFE1B4 /* Assets.xcassets */,
-				F40E942B1DF40BEF00FFE1B4 /* LaunchScreen.storyboard */,
 				F40E942E1DF40BEF00FFE1B4 /* Info.plist */,
 			);
 			path = SegmentedControl;
 			sourceTree = "<group>";
 		};
-		F40E94341DF40C2300FFE1B4 /* Frameworks */ = {
+		F41F924E1E0ADB07004ED0F1 /* github-assest */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94351DF40C2300FFE1B4 /* Sparrow */,
+				F41F924F1E0ADB07004ED0F1 /* LaunchScreen.storyboard */,
+				F41F92501E0ADB07004ED0F1 /* SPIconAssest.xcassets */,
 			);
-			path = Frameworks;
+			path = "github-assest";
 			sourceTree = "<group>";
 		};
-		F40E94351DF40C2300FFE1B4 /* Sparrow */ = {
+		F41F92511E0ADB07004ED0F1 /* Sparrow */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94361DF40C2300FFE1B4 /* Animation */,
-				F40E943A1DF40C2300FFE1B4 /* Audio */,
-				F40E943C1DF40C2300FFE1B4 /* Color */,
-				F40E943E1DF40C2300FFE1B4 /* Constraints */,
-				F40E94401DF40C2300FFE1B4 /* Delay */,
-				F40E94421DF40C2300FFE1B4 /* Device */,
-				F40E94441DF40C2300FFE1B4 /* Figure */,
-				F40E94471DF40C2300FFE1B4 /* Image */,
-				F40E944A1DF40C2300FFE1B4 /* InternetConnection */,
-				F40E944C1DF40C2300FFE1B4 /* Launch */,
-				F40E94551DF40C2400FFE1B4 /* Random */,
-				F40E94571DF40C2400FFE1B4 /* UI */,
+				F41F92521E0ADB07004ED0F1 /* Animation */,
+				F41F92561E0ADB07004ED0F1 /* Audio */,
+				F41F92581E0ADB07004ED0F1 /* Color */,
+				F41F925A1E0ADB07004ED0F1 /* Constraints */,
+				F41F925C1E0ADB07004ED0F1 /* Delay */,
+				F41F925E1E0ADB07004ED0F1 /* Device */,
+				F41F92601E0ADB07004ED0F1 /* Figure */,
+				F41F92631E0ADB07004ED0F1 /* Image */,
+				F41F92651E0ADB07004ED0F1 /* InternetConnection */,
+				F41F92671E0ADB07004ED0F1 /* Launch */,
+				F41F926E1E0ADB07004ED0F1 /* Random */,
+				F41F92701E0ADB07004ED0F1 /* UI */,
 			);
 			path = Sparrow;
 			sourceTree = "<group>";
 		};
-		F40E94361DF40C2300FFE1B4 /* Animation */ = {
+		F41F92521E0ADB07004ED0F1 /* Animation */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94371DF40C2300FFE1B4 /* SPAnimation.swift */,
-				F40E94381DF40C2300FFE1B4 /* SPAnimationSpring.swift */,
-				F40E94391DF40C2300FFE1B4 /* SPAnimationUpward.swift */,
+				F41F92531E0ADB07004ED0F1 /* SPAnimation.swift */,
+				F41F92541E0ADB07004ED0F1 /* SPAnimationSpring.swift */,
+				F41F92551E0ADB07004ED0F1 /* SPAnimationUpward.swift */,
 			);
 			path = Animation;
 			sourceTree = "<group>";
 		};
-		F40E943A1DF40C2300FFE1B4 /* Audio */ = {
+		F41F92561E0ADB07004ED0F1 /* Audio */ = {
 			isa = PBXGroup;
 			children = (
-				F40E943B1DF40C2300FFE1B4 /* SPAudioPlayer.swift */,
+				F41F92571E0ADB07004ED0F1 /* SPAudioPlayer.swift */,
 			);
 			path = Audio;
 			sourceTree = "<group>";
 		};
-		F40E943C1DF40C2300FFE1B4 /* Color */ = {
+		F41F92581E0ADB07004ED0F1 /* Color */ = {
 			isa = PBXGroup;
 			children = (
-				F40E943D1DF40C2300FFE1B4 /* SPUIColorExtenshion.swift */,
+				F41F92591E0ADB07004ED0F1 /* SPUIColorExtenshion.swift */,
 			);
 			path = Color;
 			sourceTree = "<group>";
 		};
-		F40E943E1DF40C2300FFE1B4 /* Constraints */ = {
+		F41F925A1E0ADB07004ED0F1 /* Constraints */ = {
 			isa = PBXGroup;
 			children = (
-				F40E943F1DF40C2300FFE1B4 /* SPConstraintsAssistent.swift */,
+				F41F925B1E0ADB07004ED0F1 /* SPConstraintsAssistent.swift */,
 			);
 			path = Constraints;
 			sourceTree = "<group>";
 		};
-		F40E94401DF40C2300FFE1B4 /* Delay */ = {
+		F41F925C1E0ADB07004ED0F1 /* Delay */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94411DF40C2300FFE1B4 /* SPDelay.swift */,
+				F41F925D1E0ADB07004ED0F1 /* SPDelay.swift */,
 			);
 			path = Delay;
 			sourceTree = "<group>";
 		};
-		F40E94421DF40C2300FFE1B4 /* Device */ = {
+		F41F925E1E0ADB07004ED0F1 /* Device */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94431DF40C2300FFE1B4 /* SPUIDeviceExtenshion.swift */,
+				F41F925F1E0ADB07004ED0F1 /* SPUIDeviceExtenshion.swift */,
 			);
 			path = Device;
 			sourceTree = "<group>";
 		};
-		F40E94441DF40C2300FFE1B4 /* Figure */ = {
+		F41F92601E0ADB07004ED0F1 /* Figure */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94451DF40C2300FFE1B4 /* BezierPathFigure */,
+				F41F92611E0ADB07004ED0F1 /* BezierPathFigure */,
 			);
 			path = Figure;
 			sourceTree = "<group>";
 		};
-		F40E94451DF40C2300FFE1B4 /* BezierPathFigure */ = {
+		F41F92611E0ADB07004ED0F1 /* BezierPathFigure */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94461DF40C2300FFE1B4 /* SPBezierPathFigure.swift */,
+				F41F92621E0ADB07004ED0F1 /* SPBezierPathFigure.swift */,
 			);
 			path = BezierPathFigure;
 			sourceTree = "<group>";
 		};
-		F40E94471DF40C2300FFE1B4 /* Image */ = {
+		F41F92631E0ADB07004ED0F1 /* Image */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94481DF40C2300FFE1B4 /* SPUIImageExtenshion.swift */,
-				F40E94491DF40C2300FFE1B4 /* SPUIImageViewExtenshion.swift */,
+				F41F92641E0ADB07004ED0F1 /* SPUIImageExtenshion.swift */,
 			);
 			path = Image;
 			sourceTree = "<group>";
 		};
-		F40E944A1DF40C2300FFE1B4 /* InternetConnection */ = {
+		F41F92651E0ADB07004ED0F1 /* InternetConnection */ = {
 			isa = PBXGroup;
 			children = (
-				F40E944B1DF40C2300FFE1B4 /* SPInternetConnection.swift */,
+				F41F92661E0ADB07004ED0F1 /* SPInternetConnection.swift */,
 			);
 			path = InternetConnection;
 			sourceTree = "<group>";
 		};
-		F40E944C1DF40C2300FFE1B4 /* Launch */ = {
+		F41F92671E0ADB07004ED0F1 /* Launch */ = {
 			isa = PBXGroup;
 			children = (
-				F40E944D1DF40C2300FFE1B4 /* Animation */,
+				F41F92681E0ADB07004ED0F1 /* Animation */,
 			);
 			path = Launch;
 			sourceTree = "<group>";
 		};
-		F40E944D1DF40C2300FFE1B4 /* Animation */ = {
+		F41F92681E0ADB07004ED0F1 /* Animation */ = {
 			isa = PBXGroup;
 			children = (
-				F40E944E1DF40C2400FFE1B4 /* asTwitter */,
-				F40E94521DF40C2400FFE1B4 /* Slide */,
-				F40E94541DF40C2400FFE1B4 /* SPLaunchAnimation.swift */,
+				F41F92691E0ADB07004ED0F1 /* asTwitter */,
+				F41F926B1E0ADB07004ED0F1 /* Slide */,
+				F41F926D1E0ADB07004ED0F1 /* SPLaunchAnimation.swift */,
 			);
 			path = Animation;
 			sourceTree = "<group>";
 		};
-		F40E944E1DF40C2400FFE1B4 /* asTwitter */ = {
+		F41F92691E0ADB07004ED0F1 /* asTwitter */ = {
 			isa = PBXGroup;
 			children = (
-				F40E944F1DF40C2400FFE1B4 /* SPLaunchAnimationTwitterExtenshion.swift */,
-				F40E94501DF40C2400FFE1B4 /* TwitterLaunchScreen.storyboard */,
-				F40E94511DF40C2400FFE1B4 /* TwitterMedia.xcassets */,
+				F41F926A1E0ADB07004ED0F1 /* SPLaunchAnimationTwitterExtenshion.swift */,
 			);
 			path = asTwitter;
 			sourceTree = "<group>";
 		};
-		F40E94521DF40C2400FFE1B4 /* Slide */ = {
+		F41F926B1E0ADB07004ED0F1 /* Slide */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94531DF40C2400FFE1B4 /* SPLaunchAnimationSlideExtenshion.swift */,
+				F41F926C1E0ADB07004ED0F1 /* SPLaunchAnimationSlideExtenshion.swift */,
 			);
 			path = Slide;
 			sourceTree = "<group>";
 		};
-		F40E94551DF40C2400FFE1B4 /* Random */ = {
+		F41F926E1E0ADB07004ED0F1 /* Random */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94561DF40C2400FFE1B4 /* SPRandom.swift */,
+				F41F926F1E0ADB07004ED0F1 /* SPRandom.swift */,
 			);
 			path = Random;
 			sourceTree = "<group>";
 		};
-		F40E94571DF40C2400FFE1B4 /* UI */ = {
+		F41F92701E0ADB07004ED0F1 /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94581DF40C2400FFE1B4 /* Controllers */,
-				F40E945D1DF40C2400FFE1B4 /* Controls */,
-				F40E94671DF40C2400FFE1B4 /* Views */,
+				F41F92711E0ADB07004ED0F1 /* Controllers */,
+				F41F92761E0ADB07004ED0F1 /* Controls */,
+				F41F92801E0ADB07004ED0F1 /* Views */,
 			);
 			path = UI;
 			sourceTree = "<group>";
 		};
-		F40E94581DF40C2400FFE1B4 /* Controllers */ = {
+		F41F92711E0ADB07004ED0F1 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94591DF40C2400FFE1B4 /* SPExtenshionViewController.swift */,
-				F40E945A1DF40C2400FFE1B4 /* SPGradientViewController.swift */,
-				F40E945B1DF40C2400FFE1B4 /* SPPageItemsScallingViewController.swift */,
-				F40E945C1DF40C2400FFE1B4 /* SPParalaxTableViewController.swift */,
+				F41F92721E0ADB07004ED0F1 /* SPExtenshionViewController.swift */,
+				F41F92731E0ADB07004ED0F1 /* SPGradientViewController.swift */,
+				F41F92741E0ADB07004ED0F1 /* SPPageItemsScallingViewController.swift */,
+				F41F92751E0ADB07004ED0F1 /* SPParalaxTableViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
 		};
-		F40E945D1DF40C2400FFE1B4 /* Controls */ = {
+		F41F92761E0ADB07004ED0F1 /* Controls */ = {
 			isa = PBXGroup;
 			children = (
-				F40E945E1DF40C2400FFE1B4 /* Buttons */,
-				F40E94621DF40C2400FFE1B4 /* SegmentedControl */,
+				F41F92771E0ADB07004ED0F1 /* Buttons */,
+				F41F927B1E0ADB07004ED0F1 /* SegmentedControl */,
 			);
 			path = Controls;
 			sourceTree = "<group>";
 		};
-		F40E945E1DF40C2400FFE1B4 /* Buttons */ = {
+		F41F92771E0ADB07004ED0F1 /* Buttons */ = {
 			isa = PBXGroup;
 			children = (
-				F40E945F1DF40C2400FFE1B4 /* SPIconsButton.swift */,
-				F40E94601DF40C2400FFE1B4 /* SPLinesCircleButtonsView.swift */,
-				F40E94611DF40C2400FFE1B4 /* SPRoundButton.swift */,
+				F41F92781E0ADB07004ED0F1 /* SPIconsButton.swift */,
+				F41F92791E0ADB07004ED0F1 /* SPLinesCircleButtonsView.swift */,
+				F41F927A1E0ADB07004ED0F1 /* SPRoundButton.swift */,
 			);
 			path = Buttons;
 			sourceTree = "<group>";
 		};
-		F40E94621DF40C2400FFE1B4 /* SegmentedControl */ = {
+		F41F927B1E0ADB07004ED0F1 /* SegmentedControl */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94631DF40C2400FFE1B4 /* SPSegmentControllCell.swift */,
-				F40E94641DF40C2400FFE1B4 /* SPSegmentControlProtocol.swift */,
-				F40E94651DF40C2400FFE1B4 /* SPSegmentControlStyleProtocol.swift */,
-				F40E94661DF40C2400FFE1B4 /* SPSegmentedControl.swift */,
+				F41F927C1E0ADB07004ED0F1 /* SPSegmentControllCell.swift */,
+				F41F927D1E0ADB07004ED0F1 /* SPSegmentControlProtocol.swift */,
+				F41F927E1E0ADB07004ED0F1 /* SPSegmentControlStyleProtocol.swift */,
+				F41F927F1E0ADB07004ED0F1 /* SPSegmentedControl.swift */,
 			);
 			path = SegmentedControl;
 			sourceTree = "<group>";
 		};
-		F40E94671DF40C2400FFE1B4 /* Views */ = {
+		F41F92801E0ADB07004ED0F1 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94681DF40C2400FFE1B4 /* CollectionViews */,
-				F40E946F1DF40C2400FFE1B4 /* TableViews */,
-				F40E94731DF40C2400FFE1B4 /* Views */,
+				F41F92811E0ADB07004ED0F1 /* CollectionViews */,
+				F41F92881E0ADB07004ED0F1 /* TableViews */,
+				F41F928C1E0ADB07004ED0F1 /* Views */,
 			);
 			path = Views;
 			sourceTree = "<group>";
 		};
-		F40E94681DF40C2400FFE1B4 /* CollectionViews */ = {
+		F41F92811E0ADB07004ED0F1 /* CollectionViews */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94691DF40C2400FFE1B4 /* Cells */,
-				F40E946B1DF40C2400FFE1B4 /* CollectionViews */,
-				F40E946D1DF40C2400FFE1B4 /* Layouts */,
+				F41F92821E0ADB07004ED0F1 /* Cells */,
+				F41F92841E0ADB07004ED0F1 /* CollectionViews */,
+				F41F92861E0ADB07004ED0F1 /* Layouts */,
 			);
 			path = CollectionViews;
 			sourceTree = "<group>";
 		};
-		F40E94691DF40C2400FFE1B4 /* Cells */ = {
+		F41F92821E0ADB07004ED0F1 /* Cells */ = {
 			isa = PBXGroup;
 			children = (
-				F40E946A1DF40C2400FFE1B4 /* SPCollectionViewCell.swift */,
+				F41F92831E0ADB07004ED0F1 /* SPCollectionViewCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
 		};
-		F40E946B1DF40C2400FFE1B4 /* CollectionViews */ = {
+		F41F92841E0ADB07004ED0F1 /* CollectionViews */ = {
 			isa = PBXGroup;
 			children = (
-				F40E946C1DF40C2400FFE1B4 /* SPPageItemsScalingCollectionView.swift */,
+				F41F92851E0ADB07004ED0F1 /* SPPageItemsScalingCollectionView.swift */,
 			);
 			path = CollectionViews;
 			sourceTree = "<group>";
 		};
-		F40E946D1DF40C2400FFE1B4 /* Layouts */ = {
+		F41F92861E0ADB07004ED0F1 /* Layouts */ = {
 			isa = PBXGroup;
 			children = (
-				F40E946E1DF40C2400FFE1B4 /* SPPageItemsScalingCollectionLayout.swift */,
+				F41F92871E0ADB07004ED0F1 /* SPPageItemsScalingCollectionLayout.swift */,
 			);
 			path = Layouts;
 			sourceTree = "<group>";
 		};
-		F40E946F1DF40C2400FFE1B4 /* TableViews */ = {
+		F41F92881E0ADB07004ED0F1 /* TableViews */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94701DF40C2400FFE1B4 /* Cell */,
-				F40E94721DF40C2400FFE1B4 /* TableViews */,
+				F41F92891E0ADB07004ED0F1 /* Cell */,
+				F41F928B1E0ADB07004ED0F1 /* TableViews */,
 			);
 			path = TableViews;
 			sourceTree = "<group>";
 		};
-		F40E94701DF40C2400FFE1B4 /* Cell */ = {
+		F41F92891E0ADB07004ED0F1 /* Cell */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94711DF40C2400FFE1B4 /* SPParallaxTableViewCell.swift */,
+				F41F928A1E0ADB07004ED0F1 /* SPParallaxTableViewCell.swift */,
 			);
 			path = Cell;
 			sourceTree = "<group>";
 		};
-		F40E94721DF40C2400FFE1B4 /* TableViews */ = {
+		F41F928B1E0ADB07004ED0F1 /* TableViews */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = TableViews;
 			sourceTree = "<group>";
 		};
-		F40E94731DF40C2400FFE1B4 /* Views */ = {
+		F41F928C1E0ADB07004ED0F1 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				F40E94741DF40C2400FFE1B4 /* SPBlurView.swift */,
-				F40E94751DF40C2400FFE1B4 /* SPGradientView.swift */,
-				F40E94761DF40C2400FFE1B4 /* SPUILabelExtenshion.swift */,
-				F40E94771DF40C2400FFE1B4 /* SPUIViewExtenshion.swift */,
+				F41F928D1E0ADB07004ED0F1 /* SPBlurView.swift */,
+				F41F928E1E0ADB07004ED0F1 /* SPGradientView.swift */,
+				F41F928F1E0ADB07004ED0F1 /* SPUILabelExtenshion.swift */,
+				F41F92901E0ADB07004ED0F1 /* SPUIViewExtenshion.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -483,11 +477,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F40E942D1DF40BEF00FFE1B4 /* LaunchScreen.storyboard in Resources */,
-				F40E94861DF40C2400FFE1B4 /* TwitterMedia.xcassets in Resources */,
+				F41F92911E0ADB07004ED0F1 /* LaunchScreen.storyboard in Resources */,
 				F40E942A1DF40BEF00FFE1B4 /* Assets.xcassets in Resources */,
+				F41F92921E0ADB07004ED0F1 /* SPIconAssest.xcassets in Resources */,
 				F40E94281DF40BEF00FFE1B4 /* Main.storyboard in Resources */,
-				F40E94851DF40C2400FFE1B4 /* TwitterLaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,43 +491,42 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F40E949A1DF40C2400FFE1B4 /* SPGradientView.swift in Sources */,
-				F40E94991DF40C2400FFE1B4 /* SPBlurView.swift in Sources */,
-				F40E94931DF40C2400FFE1B4 /* SPSegmentControlStyleProtocol.swift in Sources */,
-				F40E94821DF40C2400FFE1B4 /* SPUIImageViewExtenshion.swift in Sources */,
-				F40E947D1DF40C2400FFE1B4 /* SPConstraintsAssistent.swift in Sources */,
-				F40E94811DF40C2400FFE1B4 /* SPUIImageExtenshion.swift in Sources */,
-				F40E94981DF40C2400FFE1B4 /* SPParallaxTableViewCell.swift in Sources */,
-				F40E94941DF40C2400FFE1B4 /* SPSegmentedControl.swift in Sources */,
-				F40E948F1DF40C2400FFE1B4 /* SPLinesCircleButtonsView.swift in Sources */,
-				F40E949C1DF40C2400FFE1B4 /* SPUIViewExtenshion.swift in Sources */,
-				F40E94921DF40C2400FFE1B4 /* SPSegmentControlProtocol.swift in Sources */,
-				F40E94791DF40C2400FFE1B4 /* SPAnimationSpring.swift in Sources */,
-				F40E94801DF40C2400FFE1B4 /* SPBezierPathFigure.swift in Sources */,
-				F40E94871DF40C2400FFE1B4 /* SPLaunchAnimationSlideExtenshion.swift in Sources */,
-				F40E94831DF40C2400FFE1B4 /* SPInternetConnection.swift in Sources */,
-				F40E949B1DF40C2400FFE1B4 /* SPUILabelExtenshion.swift in Sources */,
-				F40E94961DF40C2400FFE1B4 /* SPPageItemsScalingCollectionView.swift in Sources */,
-				F40E947E1DF40C2400FFE1B4 /* SPDelay.swift in Sources */,
-				F40E94911DF40C2400FFE1B4 /* SPSegmentControllCell.swift in Sources */,
-				F40E947A1DF40C2400FFE1B4 /* SPAnimationUpward.swift in Sources */,
-				F40E948B1DF40C2400FFE1B4 /* SPGradientViewController.swift in Sources */,
-				F40E94971DF40C2400FFE1B4 /* SPPageItemsScalingCollectionLayout.swift in Sources */,
-				F40E94841DF40C2400FFE1B4 /* SPLaunchAnimationTwitterExtenshion.swift in Sources */,
-				F40E94901DF40C2400FFE1B4 /* SPRoundButton.swift in Sources */,
-				F40E948C1DF40C2400FFE1B4 /* SPPageItemsScallingViewController.swift in Sources */,
-				F40E947B1DF40C2400FFE1B4 /* SPAudioPlayer.swift in Sources */,
-				F40E94951DF40C2400FFE1B4 /* SPCollectionViewCell.swift in Sources */,
-				F40E948E1DF40C2400FFE1B4 /* SPIconsButton.swift in Sources */,
+				F41F92B11E0ADB07004ED0F1 /* SPBlurView.swift in Sources */,
+				F41F92AA1E0ADB07004ED0F1 /* SPSegmentControlProtocol.swift in Sources */,
+				F41F92A01E0ADB07004ED0F1 /* SPLaunchAnimation.swift in Sources */,
+				F41F92981E0ADB07004ED0F1 /* SPConstraintsAssistent.swift in Sources */,
+				F41F92AC1E0ADB07004ED0F1 /* SPSegmentedControl.swift in Sources */,
+				F41F929C1E0ADB07004ED0F1 /* SPUIImageExtenshion.swift in Sources */,
+				F41F929F1E0ADB07004ED0F1 /* SPLaunchAnimationSlideExtenshion.swift in Sources */,
+				F41F92A51E0ADB07004ED0F1 /* SPParalaxTableViewController.swift in Sources */,
+				F41F92A31E0ADB07004ED0F1 /* SPGradientViewController.swift in Sources */,
+				F41F92A21E0ADB07004ED0F1 /* SPExtenshionViewController.swift in Sources */,
+				F41F92AD1E0ADB07004ED0F1 /* SPCollectionViewCell.swift in Sources */,
+				F41F929D1E0ADB07004ED0F1 /* SPInternetConnection.swift in Sources */,
+				F41F92A11E0ADB07004ED0F1 /* SPRandom.swift in Sources */,
+				F41F92A41E0ADB07004ED0F1 /* SPPageItemsScallingViewController.swift in Sources */,
+				F41F92AE1E0ADB07004ED0F1 /* SPPageItemsScalingCollectionView.swift in Sources */,
+				F41F92941E0ADB07004ED0F1 /* SPAnimationSpring.swift in Sources */,
+				F41F929B1E0ADB07004ED0F1 /* SPBezierPathFigure.swift in Sources */,
+				F41F92991E0ADB07004ED0F1 /* SPDelay.swift in Sources */,
+				F41F92951E0ADB07004ED0F1 /* SPAnimationUpward.swift in Sources */,
+				F41F92AF1E0ADB07004ED0F1 /* SPPageItemsScalingCollectionLayout.swift in Sources */,
+				F41F92B41E0ADB07004ED0F1 /* SPUIViewExtenshion.swift in Sources */,
+				F41F92B01E0ADB07004ED0F1 /* SPParallaxTableViewCell.swift in Sources */,
+				F41F92961E0ADB07004ED0F1 /* SPAudioPlayer.swift in Sources */,
 				F40E94251DF40BEF00FFE1B4 /* ViewController.swift in Sources */,
-				F40E94881DF40C2400FFE1B4 /* SPLaunchAnimation.swift in Sources */,
 				F40E94231DF40BEF00FFE1B4 /* AppDelegate.swift in Sources */,
-				F40E948D1DF40C2400FFE1B4 /* SPParalaxTableViewController.swift in Sources */,
-				F40E948A1DF40C2400FFE1B4 /* SPExtenshionViewController.swift in Sources */,
-				F40E947C1DF40C2400FFE1B4 /* SPUIColorExtenshion.swift in Sources */,
-				F40E94891DF40C2400FFE1B4 /* SPRandom.swift in Sources */,
-				F40E94781DF40C2400FFE1B4 /* SPAnimation.swift in Sources */,
-				F40E947F1DF40C2400FFE1B4 /* SPUIDeviceExtenshion.swift in Sources */,
+				F41F92A71E0ADB07004ED0F1 /* SPLinesCircleButtonsView.swift in Sources */,
+				F41F92A91E0ADB07004ED0F1 /* SPSegmentControllCell.swift in Sources */,
+				F41F92971E0ADB07004ED0F1 /* SPUIColorExtenshion.swift in Sources */,
+				F41F929E1E0ADB07004ED0F1 /* SPLaunchAnimationTwitterExtenshion.swift in Sources */,
+				F41F92A61E0ADB07004ED0F1 /* SPIconsButton.swift in Sources */,
+				F41F92A81E0ADB07004ED0F1 /* SPRoundButton.swift in Sources */,
+				F41F92AB1E0ADB07004ED0F1 /* SPSegmentControlStyleProtocol.swift in Sources */,
+				F41F92931E0ADB07004ED0F1 /* SPAnimation.swift in Sources */,
+				F41F929A1E0ADB07004ED0F1 /* SPUIDeviceExtenshion.swift in Sources */,
+				F41F92B21E0ADB07004ED0F1 /* SPGradientView.swift in Sources */,
+				F41F92B31E0ADB07004ED0F1 /* SPUILabelExtenshion.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -547,14 +539,6 @@
 				F40E94271DF40BEF00FFE1B4 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		F40E942B1DF40BEF00FFE1B4 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				F40E942C1DF40BEF00FFE1B4 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -656,7 +640,7 @@
 		F40E94321DF40BEF00FFE1B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = SPAppIcon;
 				DEVELOPMENT_TEAM = MNM2TM9G7C;
 				INFOPLIST_FILE = SegmentedControl/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -669,7 +653,7 @@
 		F40E94331DF40BEF00FFE1B4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = SPAppIcon;
 				DEVELOPMENT_TEAM = MNM2TM9G7C;
 				INFOPLIST_FILE = SegmentedControl/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

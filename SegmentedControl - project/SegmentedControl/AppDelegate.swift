@@ -31,8 +31,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         SPLaunchAnimation.slideWithParalax(
-            removeBGfromParalaxOnLaunchScreenView: false,
-            removeBGfromParalaxOnRootViewController: true,
+            disabelParalaxForFirstViewOnLaunchScreenView: false,
+            disabelParalaxForFirstViewOnRootViewController: false,
+            disabelParalaxForRootViewController: true,
             onWindow: self.window!
         )
         

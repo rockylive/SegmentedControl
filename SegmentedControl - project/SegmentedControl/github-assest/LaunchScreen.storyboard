@@ -23,7 +23,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="v35-qf-eWh">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="SPLogo" translatesAutoresizingMaskIntoConstraints="NO" id="v35-qf-eWh">
                                 <rect key="frame" x="87" y="193.5" width="200" height="200"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="v35-qf-eWh" secondAttribute="height" multiplier="1:1" id="0nk-1A-BSs"/>
@@ -58,6 +58,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="logo" width="1000" height="1000"/>
+        <image name="SPLogo" width="1000" height="1000"/>
     </resources>
 </document>
