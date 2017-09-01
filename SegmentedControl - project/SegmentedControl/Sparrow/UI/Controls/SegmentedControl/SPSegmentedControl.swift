@@ -247,11 +247,14 @@ extension SPSegmentedControl: UIGestureRecognizerDelegate {
                     } else {
                         selectedIndex = selectedIndex - 1
                     }
+                    sendActions(for: .valueChanged)
                 } else {
                     self.selectedIndex = self.nearestIndexToPoint(point: self.indicatorView.center)
+                    sendActions(for: .valueChanged)
                 }
             } else {
                 self.selectedIndex = self.nearestIndexToPoint(point: self.indicatorView.center)
+                sendActions(for: .valueChanged)
             }
         default:
             break
